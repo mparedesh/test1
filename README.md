@@ -10,7 +10,9 @@
 
 ## Configuration
 <br />
-**Before execute the code, it's necessary configure the next environment variables: **
+
+**Before execute the code, it's necessary configure the next environment variables:**
+
 <br /><br />
 
 | Windows version:|
